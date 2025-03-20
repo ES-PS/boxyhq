@@ -99,6 +99,7 @@
     "remark-gfm": "4.0.1",
     "sharp": "0.33.5",
     "styled-components": "6.1.15",
+    "ts-node": "10.9.2",
     "swr": "2.3.3"
   },
   "devDependencies": {
@@ -124,7 +125,7 @@
     "release-it": "18.1.2",
     "swagger-jsdoc": "6.2.8",
     "tailwindcss": "3.4.17",
-    "ts-node": "10.9.2",
+    
     "tsconfig-paths": "4.2.0",
     "typescript": "5.8.2"
   },
